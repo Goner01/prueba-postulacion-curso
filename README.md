@@ -4,4 +4,4 @@
 
 ## Nota
 ### Abrir las herramientas para desarrolladores 
-### para ver los resultados de los ejercicios.
+### para ver los resultados de los ejercicios en consola.
