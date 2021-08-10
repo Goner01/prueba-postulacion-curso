@@ -33,7 +33,7 @@ btnIngresar.addEventListener('click', sumaImpares);
 /**
  * Bueno lo primero que hago es generar una varible para la suma de los 
  * impares, simplemente inicia el ciclo con el n de iteraciones   
- * según el numero ingresado, luego valido que el numero sea impar y 
+ * según el numero ingresado, luego válido que el numero sea impar y 
  * simplemente se lo sumo a la variable.
  * 
  * Luego cuando termina el ciclo se imprime el resultado.

@@ -38,17 +38,17 @@ btnIngresar.addEventListener('click', sumaPares);
 
 
 /**
- * Bueno primero que nada pensaba hacerlos con un simple aler dialog para recibir los datos
- * pero me resulto un tanto incomodo asi que decidi extraer los valores a traves de un input 
- * y registrar una acción para capturar el evento, lo mismo aplica para los demas ejercicios.
+ * Bueno primero que nada pensaba hacerlos con un simple alert dialog para recibir los datos
+ * pero me resultó un tanto incomodo así que decidí extraer los valores a través de un input 
+ * y registrar una acción para capturar el evento, lo mismo aplica para los demás ejercicios.
  * 
  * Primero obtengo el valor cierto, luego valido que corresponda a un número.
  * 
- * Si es un numero entrara a la función en la cual primero cree un contador, luego el 
+ * Si es un número entrará a la función en la cual primero se crea un contador, luego el 
  * ciclo for para hacer los ciclos correspondientes al valor ingresado y valido que 
- * el valor ingresado sea mayor al contador.  Dentro del ciclo cree la validación que 
- * verifica si corresponde a un numero par si es así entrara e imprimirá el valor 
+ * el valor ingresado sea mayor al contador. Dentro del ciclo se crea la validación que 
+ * verifica si corresponde a un número par si es así entrará e imprimirá el valor 
  * además de aumentar en 1 el contador así cuando este sea mayor al valor ingresado 
- * se termine el ciclo.
+ * se termina el ciclo.
  */
 

@@ -40,6 +40,6 @@ btnIngresar.addEventListener('click', sumaIntervalo);
  * a i el valor de min y se ejecutará mientras i sea menor a max, entonces con esto tendrá 
  * n iteraciones que corresponde a la cantidad de valores que se encuentra en el intervalo.
  * 
- * Dentro del ciclo se verifica que corresponda a un impar de ser así se sumara el valor.
+ * Dentro del ciclo se verifica que corresponda a un impar de ser así, se sumará el valor.
  *
  */

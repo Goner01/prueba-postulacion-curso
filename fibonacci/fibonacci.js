@@ -31,9 +31,9 @@ btnIngresar.addEventListener('click', fibonacci);
 
 
 /**
- * Primero que nada, capturo el valor y valido que sea un numero como en todas las anteriores.
+ * Primero que nada, capturo el valor y valido que sea un número como en todas las anteriores.
  * 
- * Una vez se verifica que es número entra a la función para calcular la serie de Fibonacci correspondiente.
+ * Una vez se verifica que es número, entra a la función para calcular la serie de Fibonacci correspondiente.
  * Dentro de la función se crea un arreglo inicializado con el primer valor por defecto de cero, 
  * este arreglo me servirá para almacenar los resultados de la serie y para sacar el cálculo del 
  * próximo elemento con los valores anteriores.
@@ -42,7 +42,7 @@ btnIngresar.addEventListener('click', fibonacci);
  * serie de Fibonacci en estos casos siempre corresponde a 1, si es así agrego el valor 
  * de 1 al arreglo.
  * 
- * Luego en el segundo caso entrara siempre que i sea mayor que 2, en el cual lo único que 
+ * Luego en el segundo caso entrará siempre que i sea mayor que 2, en el cual lo único que 
  * hago es agregar al arreglo la suma de la última posición del arreglo con la penúltima.
  */
 

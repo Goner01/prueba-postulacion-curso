@@ -29,7 +29,7 @@ btnIngresar.addEventListener('click', sumaPares);
 
 /**
  * Esta parte es basicamente lo mismo que la anterior, lo único que cambia es 
- * dentro del ciclo for en la validación para ver si es par le agregue la que i 
- * tiene que ser distinto de cero así cuando ciclo este en su primera iteración 
- * no entrara por ende no se imprimirá y el contador no aumentara 
+ * dentro del ciclo for en la validación para ver si es par se le agrega que
+ * tiene que ser distinto de cero, así cuando ciclo este en su primera iteración 
+ * no entrara por ende no se imprimirá y el contador no aumentará. 
  */
